@@ -68,7 +68,7 @@ SW Cyclograpp — это инструмент для инженеров-свар
 
 ```bash
 # 1. Клонируйте репозиторий
-git clone git@github.com:webeginer/sw_cyclograpp.git
+git clone git@github.com:weldcontour/sw_cyclograpp.git
 
 # 2. Перейдите в папку проекта
 cd sw_cyclograpp
@@ -80,3 +80,10 @@ flutter pub get
 flutter run -d chrome
 # или
 flutter run -d macos
+```
+
+### Ссылка на проект
+[https://github.com/weldcontour/sw_cyclograpp](https://github.com/weldcontour/sw_cyclograpp)
+
+### Автор
+**WeldContour**
